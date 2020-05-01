@@ -3,10 +3,11 @@
 
 原始问题如下：
 
-![](./原题目.jpg)
+![image text](https://github.com/leonwujy/logics-examination/blob/master/image4readme/problem.jpg)
 
 
 
 运行结果如下：
 
-![1588317622387](./结果图.png)
+![image text](https://github.com/leonwujy/logics-examination/blob/master/image4readme/result.png)
+
